@@ -1,0 +1,84 @@
+.bovenkant {
+  background-color: orange;
+  height: 50px;
+  width: 100%;
+}
+
+#onderkant {
+  background-color: rgb(244, 164, 96);
+  height: 50px;
+  width: 100%;
+}
+
+.image {
+  width: 150px;
+  padding: 3px;
+}
+
+table, tr, td{
+  border: 2px solid black;
+}
+
+#a1{
+  background-color: #0066FF
+}
+
+#a2{
+  background-color: #0066CC
+}
+
+#a3{
+  background-color: #006699
+}
+
+#a4{
+  background-color: #006666
+}
+
+#a5{
+  background-color: #00FFFF
+}
+
+#a6{
+  background-color: #00FFCC
+}
+
+#a7{
+  background-color: #00FF99
+}
+
+#a8{
+  background-color: #00FF66
+}
+
+#a9{
+  background-color: #3366FF
+}
+
+#a10{
+  background-color: #3366CC
+}
+
+#a11{
+  background-color: #336699
+}
+
+#a12{
+  background-color: #336666
+}
+
+#a13{
+  background-color: #33FFFF
+}
+
+#a14{
+  background-color: #33FFCC
+}
+
+#a15{
+  background-color: #33FF99
+}
+
+#a16{
+  background-color: #33FF66
+}
